@@ -1,0 +1,17 @@
+C:\Users\vince\source\repos\TestCrypto\bin\Debug\net8.0\TestCrypto.exe
+C:\Users\vince\source\repos\TestCrypto\bin\Debug\net8.0\TestCrypto.deps.json
+C:\Users\vince\source\repos\TestCrypto\bin\Debug\net8.0\TestCrypto.runtimeconfig.json
+C:\Users\vince\source\repos\TestCrypto\bin\Debug\net8.0\TestCrypto.dll
+C:\Users\vince\source\repos\TestCrypto\bin\Debug\net8.0\TestCrypto.pdb
+C:\Users\vince\source\repos\TestCrypto\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.csproj.AssemblyReference.cache
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.AssemblyInfoInputs.cache
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.AssemblyInfo.cs
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.csproj.Up2Date
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.dll
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\refint\TestCrypto.dll
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.pdb
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\TestCrypto.genruntimeconfig.cache
+C:\Users\vince\source\repos\TestCrypto\obj\Debug\net8.0\ref\TestCrypto.dll

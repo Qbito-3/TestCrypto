@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/bUr2miubH8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vince\\source\\repos\\TestCrypto\\TestCrypto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vince\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
